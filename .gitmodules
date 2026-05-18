@@ -1,0 +1,3 @@
+[submodule "mini-tool-agent"]
+	path = mini-tool-agent
+	url = .\\mini-tool-agent\\
