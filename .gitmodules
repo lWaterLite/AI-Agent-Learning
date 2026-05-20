@@ -1,3 +1,3 @@
 [submodule "mini-tool-agent"]
 	path = mini-tool-agent
-	url = .\\mini-tool-agent\\
+url=git@github.com:lWaterLite/mini-tool-agent.git
